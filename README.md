@@ -1,5 +1,5 @@
 
-# Esqueletod e un Backend
+# Esqueleto de un Backend
 
 modelo de la creacion de una apirest con javascript
 
